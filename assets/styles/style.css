@@ -52,6 +52,10 @@ main {
    overflow: auto;
 }
 
+* {
+   box-sizing: border-box;
+}
+
 #content {
    float: left;
    width: 75%;
@@ -67,6 +71,7 @@ main {
 aside {
    float: right;
    width: 25%;
+   padding-left: 20px;
 }
 
 .profile header {
