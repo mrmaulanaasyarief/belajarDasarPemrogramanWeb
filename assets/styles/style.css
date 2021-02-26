@@ -36,3 +36,7 @@ footer {
    text-align: center;
    font-weight: bold;
 }
+
+.profile img {
+   width: 200px;
+}
