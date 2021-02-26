@@ -4,6 +4,14 @@ body {
    font-family: 'Quicksand', sans-serif;
 }
 
+.jumbotron {
+   font-size: 20px;
+   padding: 60px;
+   background-color: #00c8eb;
+   text-align: center;
+   color: white;
+}
+
 h2, h3 {
     color: #00a2c6
 }
