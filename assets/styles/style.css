@@ -63,6 +63,11 @@ main {
    margin-top: 20px;
 }
 
+aside {
+   float: right;
+   width: 25%;
+}
+
 .profile header {
    text-align: center;
 }
