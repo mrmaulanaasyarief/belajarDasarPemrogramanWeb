@@ -16,6 +16,11 @@ h2, h3 {
     color: #00a2c6
 }
 
+nav {
+   background-color: #00a2c6;
+   padding: 5px;
+}
+
 .featured-image {
    width: 100%;
    max-height: 300px;
@@ -23,10 +28,17 @@ h2, h3 {
    object-position: center;
 }
 
+nav li {
+   display: inline;
+   list-style-type: none;
+   margin-right: 20px;
+}
+
 nav a {
    font-size: 18px;
    font-weight: 400;
    text-decoration: none;
+   color: white;
 }
 
 nav a:hover {
